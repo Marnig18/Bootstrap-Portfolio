@@ -1,0 +1,50 @@
+.icon{
+	width: 100%;
+}
+
+
+
+h2{
+	border-bottom: 3px solid #ccc;
+}
+
+body{
+	background-image: url(../images/ep_naturalwhite.png);
+}
+
+.main{
+	background: white;
+	padding: 20px;
+}
+
+.connect{
+	background: white;
+	padding: 30px;
+}
+
+.aboutP{
+	padding-left: 10px; 
+}
+
+#profilepic{
+	 padding: 10px 20px 10px 20px;
+}
+
+#navbar{
+	border-radius: 0px;
+	padding: 10px 0;
+}
+
+#name{
+	background-color: #4aaaa5;
+	position: relative;
+    left: 45px;
+    width: 200px;
+    text-align: center;
+    font-size: 26px;
+    color: white;
+}
+}
+
+
+}
